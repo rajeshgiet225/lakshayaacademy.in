@@ -1,0 +1,334 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Lak.com" resolutions="1x" timestamp="1631893727833">
+  <folder name="css">
+    <file name="site_global.css" crc="4055790387"/>
+    <file name="caltural-coursrs.css" crc="315821691" ref="caltural-coursrs"/>
+    <file name="computer-courses.css" crc="3862525110" ref="computer-courses"/>
+    <file name="contact.css" crc="375607611" ref="contact"/>
+    <file name="registration.css" crc="137864062" ref="registration"/>
+    <file name="gallery.css" crc="205480854" ref="gallery"/>
+    <file name="index.css" crc="3855125014" ref="index"/>
+    <file name="iefonts_index.css" crc="4036581481" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration"/>
+    <file name="museutils.js" crc="3939489907" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration"/>
+    <file name="whatinput.js" crc="86476730" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration"/>
+    <file name="webpro.js" crc="3856315280" ref="index:caltural-coursrs:computer-courses:contact"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:caltural-coursrs:computer-courses:contact"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:caltural-coursrs:computer-courses:contact"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:caltural-coursrs:computer-courses:contact"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u1011.php" crc="329625567" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration"/>
+    <file name="require.js" crc="4177726516" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration"/>
+  </folder>
+  <folder name="images">
+    <file name="case.png" crc="320954353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon.png" crc="4129082871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skill.png" crc="275994893" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3122340.jpg" crc="66429261" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="output-onlinepngtools.png" crc="4038595330" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4102706121" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="registration" alt=""/>
+      <caption webpage="registration" alt=""/>
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="registration" alt=""/>
+      <caption webpage="registration" alt=""/>
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="instagram.png" crc="260457741" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="registration" alt=""/>
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="dribbble.png" crc="4050684656" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="registration" alt=""/>
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="skype.png" crc="4267061425" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="registration" alt=""/>
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="7a2d43af-24ac-44d9-9a90-1610424ef517-crop-u1771.jpg" crc="3773064589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:caltural-coursrs:computer-courses:contact"/>
+    <file name="093cd341-ddf0-4a10-b589-bf18d0821ace.jpg" crc="30035025" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a3979890-0ac6-4e71-b09a-8421bcb14646.jpg" crc="3831364708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fc0a570e-efc4-41d8-84b0-4fd2f578db4a.jpg" crc="244981125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fcc67fa9-a3da-48ca-ae73-fcb9b184d8d3.jpg" crc="384540538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:caltural-coursrs:computer-courses:contact"/>
+    <file name="fa392bdd38251855663e978fad2f651e.jpg" crc="3813299376" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maxresdefault (1).jpg" crc="3884716704" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ganshyam_painting_201901281414041-u1146-fr.jpg" crc="302509543" ref="index"/>
+    <file name="7a2d43af-24ac-44d9-9a90-1610424ef517.jpg" crc="337260089" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ganshyam_painting_201901281414041.jpg" crc="4236692111" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact.png" crc="80087821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="regd cert.jpg" crc="4036716039" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6859-4.png" crc="276859771" ref="index"/>
+    <file name="rplexpng.png" crc="127874224" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="index:caltural-coursrs:computer-courses:gallery:contact:registration">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="55de3468b09f4image.jpg" crc="200971727" seo="true" ref="caltural-coursrs:computer-courses:contact">
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="fa392bdd38251855663e978fad2f651e-crop-u5482.jpg" crc="463077157" seo="true" ref="caltural-coursrs">
+      <caption webpage="caltural-coursrs" alt=""/>
+    </file>
+    <file name="indiandance-pearl07 - copy.jpg" crc="3780067111" seo="true" ref="caltural-coursrs:computer-courses:contact">
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="shakifringe2.jpg" crc="523759726" seo="true" ref="caltural-coursrs:computer-courses:gallery:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="computer-courses" alt=""/>
+      <caption webpage="caltural-coursrs" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="snap_screen_20210816201934.jpg" crc="4292682890" ref="caltural-coursrs">
+      <caption webpage="caltural-coursrs" alt=""/>
+    </file>
+    <file name="indiandance-pearl07 - copy2.jpg" crc="3992149921" ref="caltural-coursrs">
+      <caption webpage="caltural-coursrs" alt=""/>
+    </file>
+    <file name="indian_classical_dance_forms_kuchipudi_0.jpg" crc="64277931" ref="caltural-coursrs">
+      <caption webpage="caltural-coursrs" alt=""/>
+    </file>
+    <file name="ganshyam_painting_2019012814140412.jpg" crc="4094815085" ref="caltural-coursrs">
+      <caption webpage="caltural-coursrs" alt=""/>
+    </file>
+    <file name="20180512_171003.jpg" crc="380126011" ref="caltural-coursrs">
+      <caption webpage="caltural-coursrs" alt=""/>
+    </file>
+    <file name="snap_screen_20210816201617.jpg" crc="486623162" ref="caltural-coursrs">
+      <caption webpage="caltural-coursrs" alt=""/>
+    </file>
+    <file name="fa392bdd38251855663e978fad2f651e-crop-u4988.jpg" crc="463077157" seo="true" ref="computer-courses">
+      <caption webpage="computer-courses" alt=""/>
+    </file>
+    <file name="c008c1cc-b899-40df-98ae-990e293a8c64.jpg" crc="3873261340" ref="computer-courses">
+      <caption webpage="computer-courses" alt=""/>
+    </file>
+    <file name="snap_screen_20210912154202.jpg" crc="3879110809" ref="computer-courses">
+      <caption webpage="computer-courses" alt=""/>
+    </file>
+    <file name="a789b935-9f23-4399-b081-935ca54f3f1f.jpg" crc="4289630922" ref="computer-courses">
+      <caption webpage="computer-courses" alt=""/>
+    </file>
+    <file name="19043072611computer training for see students-it training nepal.jpg" crc="3792416568" ref="computer-courses">
+      <caption webpage="computer-courses" alt=""/>
+    </file>
+    <file name="sdssxx.jpg" crc="3813721462" ref="computer-courses">
+      <caption webpage="computer-courses" alt=""/>
+    </file>
+    <file name="snap_screen_20210912154231.jpg" crc="3784816813" ref="computer-courses">
+      <caption webpage="computer-courses" alt=""/>
+    </file>
+    <file name="snap_screen_20210912154054.jpg" crc="3954970989" ref="computer-courses">
+      <caption webpage="computer-courses" alt=""/>
+    </file>
+    <file name="dscn0011.jpg" crc="484235956" ref="computer-courses">
+      <caption webpage="computer-courses" alt=""/>
+    </file>
+    <file name="dscn0181.jpg" crc="3984716603" ref="computer-courses">
+      <caption webpage="computer-courses" alt=""/>
+    </file>
+    <file name="dscn0192.jpg" crc="4148380126" ref="computer-courses">
+      <caption webpage="computer-courses" alt=""/>
+    </file>
+    <file name="ganshyam_painting_201901281414041-u3782-fr.jpg" crc="166117313" ref="gallery"/>
+    <file name="957e1a17-8243-4c39-b23f-6ecb91b5bcfb.jpg" crc="87737752" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="asf.jpg" crc="103334839" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="fc0a570e-efc4-41d8-84b0-4fd2f578db4a-u3785-fr.jpg" crc="273028027" ref="gallery"/>
+    <file name="4feee290-c60e-4cb3-8405-2fb5074c642c.jpg" crc="376599536" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="maxresdefault (1)-u4698-fr.jpg" crc="214762147" ref="gallery"/>
+    <file name="ganshyam_painting_201901281414041-u4683-fr.jpg" crc="343718215" ref="gallery"/>
+    <file name="fa392bdd38251855663e978fad2f651e-u4690-fr.jpg" crc="4243916124" ref="gallery"/>
+    <file name="snap_screen_20210816202259.jpg" crc="3901977513" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="957e1a17-8243-4c39-b23f-6ecb91b5bcfb-u4686-fr.jpg" crc="364516058" ref="gallery"/>
+    <file name="85609010-b1c5-42bf-b1f3-a498cf0c7f29.jpg" crc="3812138225" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="01-1.jpg" crc="3990744665" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sreyashi4.jpg" crc="4257530236" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="fsp-blog-safe-craft-paint-for-kids-0719.jpg" crc="4269681007" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="arpita-s photo 4.jpg" crc="4115450014" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="e5a19386-f7c0-4905-a185-2936af8098c0.jpg" crc="45496224" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="78aa5a13-69fe-4471-b105-989689b3d057.jpg" crc="493963537" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="b4c5fd64-4c3d-4b44-94dd-3384b94c745a.jpg" crc="415559224" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="fa392bdd38251855663e978fad2f651e-crop-u3055.jpg" crc="463077157" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="alexander-kovacs-3pzoj__ewoc-unsplash-u5967-fr.png" crc="3922357064" ref="registration"/>
+    <file name="the_perfect_handshake_a_few_tips_to_shake_hands_like_a_gentleman.jpg" crc="3962204234" ref="registration">
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="u6335-4.png" crc="4002438025" ref="registration"/>
+  </folder>
+  <file name="index.html" crc="295523955" seo="true" mt="1631893705231" redirect="true"/>
+  <file name="caltural-coursrs.html" crc="4216133673" seo="true" mt="1631451663285" redirect="true"/>
+  <file name="computer-courses.html" crc="4281083206" seo="true" mt="1631893705649" redirect="true"/>
+  <file name="gallery.html" crc="319640193" seo="true" mt="1631893705089" redirect="true"/>
+  <file name="contact.html" crc="4284984954" seo="true" mt="1631451828032" redirect="true"/>
+  <file name="registration.html" crc="4161308098" seo="true" mt="1631451989943" redirect="true"/>
+</manifest>
